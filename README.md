@@ -1,7 +1,21 @@
-#Problem Statement - StackIt - Q&A Forum Platform
-#Team Leader - Pranjal Rastogi, Email - pranjalrastogi9829@gmail.com
-#Team Member 1 - Pulkit Tank, Email - tank.pulkit@gmail.com
-#Team Member 2 - Mohit Raj Purohit, Email - mohitrajpurohit7575@gmail.com
+# 📌 Problem Statement  
+**StackIt – Minimal Q&A Forum Platform**
+
+---
+
+# 👥 Team Details
+
+**Team Leader:**  
+Pranjal Rastogi  
+Email: pranjalrastogi9829@gmail.com
+
+**Team Member 1:**  
+Pulkit Tank  
+Email: tank.pulkit@gmail.com
+
+**Team Member 2:**  
+Mohit Raj Purohit  
+Email: mohitrajpurohit7575@gmail.com
 
 A modern, full-stack Q&A forum application built with React, Node.js, and MongoDB. Features include user authentication, question/answer management, voting system, and an admin panel.
 
